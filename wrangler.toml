@@ -1,0 +1,6 @@
+name = "sk"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# Bind to skills.qntx.fun via Cloudflare Dashboard > Workers > Custom Domains.
+# No routes needed when using Custom Domains.

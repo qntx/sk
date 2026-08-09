@@ -1,0 +1,7 @@
+# Force LF on shell scripts regardless of platform autocrlf settings —
+# otherwise raw.githubusercontent.com serves CRLF files and bash aborts.
+*.sh   text eol=lf
+*.ps1  text eol=crlf
+*.js   text eol=lf
+*.toml text eol=lf
+*.md   text eol=lf

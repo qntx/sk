@@ -1,6 +1,14 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
 # sk
 
 Redirect service.
+
+## License
+
+Licensed under the MIT License ([LICENSE](LICENSE) or <https://opensource.org/licenses/MIT>).
+
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in this project shall be licensed as above, without any additional terms or conditions.
 
 ---
 
@@ -13,4 +21,3 @@ A **[QuantX](https://qntx.org)** open-source project.
 Code is law. We write both.
 
 </div>
-
